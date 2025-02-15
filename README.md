@@ -1,4 +1,4 @@
-**Netflix Data Analysis | Tableau, Excel**
+## **Netflix Data Analysis | Tableau, Excel**
 
 **Project Overview**
 
@@ -13,7 +13,9 @@ The data was sourced from Kaggle, containing 9,954 records of Netflix movies and
 **Process**
 
 Data Cleaning: Removed inconsistencies and ensured accuracy for analysis.
+
 Trend Analysis: Explored movie count by year, ratings distribution, and top genres.
+
 Dashboard Creation: Designed an interactive Tableau dashboard with features like:
 Top 10 highest-voted movies
 Movie genre trends
