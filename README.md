@@ -1,10 +1,9 @@
-# Netflix_data_analysis
-Netflix Data Analysis | Tableau, Excel
+**Netflix Data Analysis | Tableau, Excel**
+
+**Project Overview**
+This project analyzes Netflix movies and TV shows using Tableau and Excel, focusing on trends in content production, ratings, and genre popularity. The goal is to provide an interactive dashboard that helps visualize key insights from the dataset.
 
 LINK TO DASHBOARD: https://public.tableau.com/app/profile/drashti.patel1980/viz/NetflixDataVisualization_17318050506840/Dashboard2
-
-Project Overview
-This project analyzes Netflix movies and TV shows using Tableau and Excel, focusing on trends in content production, ratings, and genre popularity. The goal is to provide an interactive dashboard that helps visualize key insights from the dataset.
 
 Dataset
 The data was sourced from Kaggle, containing 9,954 records of Netflix movies and shows.
