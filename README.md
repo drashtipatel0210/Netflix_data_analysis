@@ -3,6 +3,7 @@
 This project analyzes Netflix movies and TV shows using Tableau and Excel, focusing on trends in content production, ratings, and genre popularity. The goal is to provide an interactive dashboard that helps visualize key insights from the dataset.
 
 LINK TO DASHBOARD: https://public.tableau.com/app/profile/drashti.patel1980/viz/NetflixDataVisualization_17318050506840/Dashboard2
+KAGGLE LINK: https://www.kaggle.com/datasets/narayan63/netflix-popular-movies-dataset
 
 ### **Dataset**
 
