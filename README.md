@@ -64,5 +64,9 @@ Excel – For initial data cleaning and preprocessing.
 
 This project delivers a comprehensive, user-friendly dashboard that helps visualize and interpret Netflix's content trends. It provides actionable insights into movie production patterns, audience engagement, and genre popularity.
 
+
+![Dashboard](https://github.com/user-attachments/assets/3ac3f50f-463e-4ffa-aa26-fb0a6076e683)
+
+
 ### **How to Access the Dashboard**
 Click link to view the Netflix Data Analysis dashboard - https://public.tableau.com/app/profile/drashti.patel1980/viz/NetflixDataVisualization_17318050506840/Dashboard2.
